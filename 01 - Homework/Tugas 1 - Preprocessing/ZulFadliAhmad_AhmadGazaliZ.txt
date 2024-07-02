@@ -1,0 +1,9 @@
+Nama Anggota 1: Zul Fadli Ahmad
+NIM Anggota 1: 60200121101
+
+Nama Anggota 2: Ahmad Gazali.Z
+NIM Anggota 2: 60200121048
+
+
+Link Notebook:
+https://colab.research.google.com/drive/1Ets4u5G7Z14TNK8vwpSVB5R-6oupKsgM?usp=sharing
